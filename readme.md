@@ -1,5 +1,7 @@
 # Алиса Попова
 
+Файл PDF с резюме также находится в репозитории
+
 **QA инженер**
 
 [GitHub](https://github.com/frenkel2901) | [Telegram](https://t.me/alice_p29) | [Telegram (запасной)](https://t.me/a_fren29)  
